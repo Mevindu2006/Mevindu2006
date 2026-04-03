@@ -40,6 +40,8 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 ![Git](https://skillicons.dev/icons?i=git)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=intellijidea)
+![Thonny](https://skillicons.dev/icons?i=thonny)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 ![XAMPP](https://skillicons.dev/icons?i=xampp)
 
 **Concepts**  
