@@ -38,6 +38,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=intellijidea)
 ![Thonny](https://skillicons.dev/icons?i=thonny)
