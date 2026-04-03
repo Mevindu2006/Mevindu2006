@@ -8,10 +8,11 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 
 ### About Me
 - 🔭 **Second-year Software Engineering student** at Informatics Institute of Technology (IIT), Colombo  
-- 🌱 Strong skills in **Python, Java, JavaScript, HTML, CSS, and PHP**  
+- 🌱 Strong skills in **Python, Java, JavaScript, HTML, CSS, and PHP**
+- 👥 **Team Member** of **NutriFlex** – Nutrition Assistance Platform (University Group Project - SDGP)
 - 💻 Experienced in building web applications, interactive tools, and UI/UX-focused projects  
-- 📚 Currently working on nutrition platforms, math games, marine awareness websites & portfolio prototypes  
-- 📫 Reach me at: [mevindukalubowila@gmail.com](mailto:mevindukalubowila@gmail.com) | **070 610 6366**  
+- 📚 Currently working on nutrition platform, math games, marine awareness websites & portfolio prototypes  
+- 📫 Reach me at: [mevindukalubowila@gmail.com](mailto:mevindukalubowila@gmail.com)
 - ⚡ Seeking a **Software Engineering Internship** to gain real industry experience and contribute to innovative teams!
 
 ### 🛠 Tech Stack & Tools
