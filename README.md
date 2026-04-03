@@ -1,20 +1,16 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/196068590?v=4" alt="Mevindu Kalubowila" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 123, 255, 0.3);">
-</div>
+# Hey there! 👋 I’m Mevindu, welcome to my GitHub playground
 
-# Hey 👋 What's up?
-
-I'm **Mevindu Kalubowila**, a passionate second-year BSc (Hons) Software Engineering undergraduate from Pelewatta, Battaramulla, Sri Lanka.
+I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering undergraduate from Sri Lanka.
 
 ### About Me
-- 🔭 **Second-year Software Engineering student** at Informatics Institute of Technology (IIT), Colombo  
-- 👥 **Team Member** of **NutriFlex** – Nutrition Assistance Platform (University Group Project - SDGP)  
-- 🌱 Strong skills in **Python, Java, JavaScript, HTML, CSS, PHP, and MongoDB**  
-- 💻 Experienced in building web applications, interactive tools, math games, and UI/UX-focused prototypes  
-- 📱 Also experienced with **Android Studio**, **Thonny**, **IntelliJ IDEA** and other development tools  
-- 📚 Currently working on full-stack projects and responsive websites  
-- 📫 Reach me at: [mevindukalubowila@gmail.com](mailto:mevindukalubowila@gmail.com) | **070 610 6366**  
-- ⚡ Seeking a **Software Engineering Internship** to gain real industry experience and contribute to innovative teams!
+- 🔭 Second-year **Software Engineering** student at IIT, Colombo  
+- 👥 Team member of **NutriFlex** – Nutrition Assistance Platform (University SDGP project)  
+- 🌱 Skilled in **Python, Java, JavaScript, HTML, CSS, PHP, MongoDB**  
+- 💻 Built web apps, interactive tools, math games, and UI/UX prototypes  
+- 📱 Comfortable with **Android Studio, Thonny, IntelliJ IDEA**, and other dev tools  
+- 📚 Currently exploring **full-stack projects** and responsive websites  
+- 📫 Reach me at [mevindukalubowila@gmail.com](mailto:mevindukalubowila@gmail.com)
+- ⚡ Looking for a **Software Engineering Internship** to gain hands-on experience!
 
 ### 🛠 Tech Stack & Tools
 
@@ -25,6 +21,9 @@ I'm **Mevindu Kalubowila**, a passionate second-year BSc (Hons) Software Enginee
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![PHP](https://skillicons.dev/icons?i=php)
+
+**Design & UI/UX**  
+![Figma](https://skillicons.dev/icons?i=figma)
 
 **Databases**  
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -54,4 +53,4 @@ OOP • UI/UX Design • Data Structures • Networking Basics
 
 ---
 
-**This is where the magic gets stored...** ✨
+✨ Code, design, and user experience – scroll down to see my creations!
