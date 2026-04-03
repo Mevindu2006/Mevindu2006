@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/[YOUR_USER_ID](https://github.com/account)?v=4" alt="Mevindu Kalubowila" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 123, 255, 0.3);">
+  <img src="https://avatars.githubusercontent.com/u/(https://avatars.githubusercontent.com/u/196068590?v=4)?v=4" alt="Mevindu Kalubowila" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 123, 255, 0.3);">
 </div>
 
 # Hey 👋 Guys What's up?
