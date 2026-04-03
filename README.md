@@ -2,9 +2,9 @@
   <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="Mevindu Kalubowila" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 123, 255, 0.3);">
 </div>
 
-# Hey 👋 What's up?
+# Hey 👋 Guys What's up?
 
-I'm **Mevindu Kalubowila**, a passionate second-year BSc (Hons) Software Engineering undergraduate from Pelewatta, Battaramulla, Sri Lanka.
+I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering undergraduate from Sri Lanka.
 
 ### About Me
 - 🔭 **Second-year Software Engineering student** at Informatics Institute of Technology (IIT), Colombo  
