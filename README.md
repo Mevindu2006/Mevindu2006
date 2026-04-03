@@ -11,7 +11,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 - 🌱 Strong skills in **Python, Java, JavaScript, HTML, CSS, and PHP**  
 - 💻 Experienced in building web applications, interactive tools, and UI/UX-focused projects  
 - 📚 Currently working on nutrition platforms, math games, marine awareness websites & portfolio prototypes  
-- 📫 Reach me at: [mevindu.20240337@iit.ac.lk](mailto:mevindu.20240337@iit.ac.lk) | **070 610 6366**  
+- 📫 Reach me at: [mevindukalubowila@gmail.com](mailto:mevindukalubowila@gmail.com) | **070 610 6366**  
 - ⚡ Seeking a **Software Engineering Internship** to gain real industry experience and contribute to innovative teams!
 
 ### 🛠 Tech Stack & Tools
@@ -23,6 +23,9 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![PHP](https://skillicons.dev/icons?i=php)
+
+**Databases**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 **Web & Frameworks**  
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -42,9 +45,8 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 OOP • UI/UX Design • Data Structures • Networking Basics
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mevindu-kalubowila-97702b37a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MevinduKalubowila)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mevindu.20240337@iit.ac.lk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mevindukalubowila@gmail.com)
 
 ---
 
