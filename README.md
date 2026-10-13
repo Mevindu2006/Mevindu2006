@@ -1,4 +1,4 @@
-# Hey there! 👋 I’m Mevindu, welcome to my GitHub playground
+# Hey there! 👋 I’m Mevindu, welcome to my GitHub
 
 I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering undergraduate from Sri Lanka.
 
