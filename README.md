@@ -8,7 +8,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 - 🌱 Skilled in **Python, Java, JavaScript, HTML, CSS, PHP, MongoDB**  
 - 💻 Built web apps, interactive tools, math games, and UI/UX prototypes  
 - 📱 Comfortable with **Android Studio, Thonny, IntelliJ IDEA**, and other dev tools  
-- 📚 Currently exploring **full-stack projects** and responsive websites  
+- 📚 Currently exploring **Frontend Projects** and responsive websites  
 - 📫 Reach me at [mevindukalubowila@gmail.com](mailto:mevindukalubowila@gmail.com)
 - ⚡ Looking for a **Software Engineering Internship** to gain hands-on experience!
 
