@@ -22,7 +22,6 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 ![CSS](https://skillicons.dev/icons?i=css)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Spring](https://skillicons.dev/icons?i=spring)
-
 <img src="https://images.seeklogo.com/logo-png/56/1/spring-boot-logo-png_seeklogo-569088.png" width="48" height="48" alt="Spring Boot" />
 
 **Design & UI/UX**  
@@ -36,6 +35,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![PHP](https://skillicons.dev/icons?i=php)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 **Tools & IDEs**  
 ![VS Code](https://skillicons.dev/icons?i=vscode)
