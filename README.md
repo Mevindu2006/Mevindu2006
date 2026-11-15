@@ -26,6 +26,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 
 **Design & UI/UX**  
 ![Figma](https://skillicons.dev/icons?i=figma)
+![Canva](https://skillicons.dev/icons?i=canva)
 
 **Databases**  
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -45,6 +46,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 <img src="https://cdn.worldvectorlogo.com/logos/pycharmedu-icon.svg" width="48" height="48" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrReL0_kVz91W1ibPOdUA98xgMxktm3TqQqQ&s" width="48" height="48" />
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Canva](https://skillicons.dev/icons?i=canva)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BZBoug_eDR7zTi0D8D3tfo7UblI_WKPPyw&s" width="48" height="48" />
 <img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/04/google-antigravity.jpg?q=70&fit=contain&w=420&dpr=1"
      width="48"
