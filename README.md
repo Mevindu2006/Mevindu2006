@@ -64,6 +64,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
      height="48"
      alt="Google Antigravity"
      style="object-fit: contain; border-radius: 8px;" />
+![Notion](https://skillicons.dev/icons?i=notion)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 **Concepts**  
