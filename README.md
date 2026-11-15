@@ -46,7 +46,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrReL0_kVz91W1ibPOdUA98xgMxktm3TqQqQ&s" width="48" height="48" />
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BZBoug_eDR7zTi0D8D3tfo7UblI_WKPPyw&s" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google Antigravity" />
+<img src="[https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google Antigravity](https://images.openai.com/static-rsc-4/tOKYn7rbNTqtKCe1oXbLjqEVBV5AsJtGHSTzTc94xDM4-eFxvmmgz2_xmCeU0HNQ5dz-RKAcgRFzkEcCgJIBoGUe8icbRMjt2aduDA_iMX-5l5HbTDTHnS49JkX8J4Bo4NiJEoKjxJ3mHtbp3UAP24aHLzsMBpfEkbmRrkuaLYaBbLHyRTtNRTMs-oXLj-un?purpose=fullsize)" />
 
 **Concepts**  
 OOP • UI/UX Design • Data Structures • Networking Basics
