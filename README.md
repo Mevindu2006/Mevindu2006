@@ -50,7 +50,7 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
      width="48"
      height="48"
      alt="Google Antigravity"
-     title="Google Antigravity" />
+     style="object-fit: contain; border-radius: 8px;" />
 
 **Concepts**  
 OOP • UI/UX Design • Data Structures • Networking Basics
