@@ -50,7 +50,8 @@ I'm **Mevindu Kalubowila**, a passionate second-year Software Engineering underg
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 <img src="https://cdn.worldvectorlogo.com/logos/pycharmedu-icon.svg" width="48" height="48" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrReL0_kVz91W1ibPOdUA98xgMxktm3TqQqQ&s" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrReL0_kVz91W1ibPOdUA98xgMxktm3TqQqQ&s" width="48" height="48" />
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 <img src="https://tse3.mm.bing.net/th/id/OIP.NG3PpqLLhoAWtF1AwRmkBAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
      width="48"
